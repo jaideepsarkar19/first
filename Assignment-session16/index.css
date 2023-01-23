@@ -1,0 +1,16 @@
+/* <span style="background-color: yellow"> New html</span>', */
+body{
+    background-image: linear-gradient(to right top, #2ca11c, #5ca202, #7ea300, #9ba200, #b5a100, #bfa80e, #caae18, #d4b521, #d0c72a, #cad838, #c2ea4a, #b6fb5f);
+}
+#message{
+    display:flex;
+    align-items: center;
+    color:rgba(0, 0, 0, 0.883);
+    margin:10em ;
+    bottom:30em;
+    height:8em;
+    padding:3em;
+    font-size:100px;
+    font-weight:900;
+    text-align:center;
+}

@@ -1,0 +1,33 @@
+setTimeout(()=>{
+    document.querySelector(`#message`).textContent=`10`
+    setTimeout(()=>{
+        document.querySelector(`#message`).textContent=`9`
+        setTimeout(()=>{
+            document.querySelector(`#message`).textContent=`8`
+            setTimeout(()=>{
+                document.querySelector(`#message`).textContent=`7`
+                setTimeout(()=>{
+                    document.querySelector(`#message`).textContent=`6`
+                    setTimeout(()=>{
+                        document.querySelector(`#message`).textContent=`5`
+                        setTimeout(()=>{
+                            document.querySelector(`#message`).textContent=`4`
+                            setTimeout(()=>{
+                                document.querySelector(`#message`).textContent=`3`
+                                setTimeout(()=>{
+                                    document.querySelector(`#message`).textContent=`2`
+                                    setTimeout(()=>{
+                                        document.querySelector(`#message`).textContent=`1`
+                                        setTimeout(()=>{
+                                            document.querySelector(`#message`).textContent=`HAPPY INDEPENDENCE DAY 2023`
+                                        },500)
+                                    },500)
+                                },500)
+                            },500)
+                        },500)
+                    },500)
+                },500)
+            },500)
+        },500)
+    },500)
+},500)
